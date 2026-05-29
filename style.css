@@ -1,0 +1,120 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+}
+
+.product-list {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.title {
+    font-size: 70px;
+    font-weight: 400;
+    line-height: 78px;
+    margin: 0;
+    text-align: center;
+    color: #515076;
+}
+
+.main-text {
+    font-size: 13px;
+    font-weight: 400;
+    line-height: 18px;
+    color: #515076;
+}
+
+.price {
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #515076;
+}
+
+.sum {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    color: #515076;
+}
+
+.application {
+    font-size: 12px;
+    font-weight: 400;
+    color: #515076;
+    line-height: 24px;
+    left: 110px;
+    top: 708px;
+    width: 171px;
+    line-height: 24px;
+}
+img {
+    width: 290px;
+    height: 245px;
+    margin: 25px 0px 30px 0px;
+    padding: 0px 0px 0px 0px;
+}
+
+.moisturizing_mousse {
+    width: 340px;
+    height: 573px;
+    top: 408px;
+    left: 470px;
+    border: 1px;
+    border-color: #515076;
+    margin-right: 45px;
+    padding: 0px 0px 0px 25px;
+    background-color: #5150761A;
+}
+
+.moisturizing_mask {
+    width: 340px;
+    height: 573px;
+    top: 408px;
+    left: 470px;
+    border: 1px;
+    border-color: #515076;
+    margin-right: 45px;
+    padding: 0px 0px 0px 25px;
+    background-color: #5150761A;
+}
+
+.cleansing_gel {
+    width: 340px;
+    height: 573px;
+    top: 408px;
+    left: 855px;
+    border: 1px;
+    border-color: #515076;
+    margin-right: 0px;
+    padding: 0px 0px 0px 25px;
+    background-color: #5150761A;
+}
+
+.gift_set_№1 {
+    width: 340px;
+    height: 573px;
+    top: 1026px;
+    left: 277px;
+    border: 1px;
+    border-color: #515076;
+    margin-top: 45px;
+    margin-left: 0px;
+    margin-right: 45px;
+    margin-bottom: 0px;
+    padding: 0px 0px 0px 25px;
+    background-color: #5150761A;
+}
+
+.gift_set_№5 {
+    width: 340px;
+    height: 573px;
+    top: 1026px;
+    left: 662px;
+    border: 1px;
+    border-color: #515076;
+    margin-top: 45px;
+    margin-right: 45px;
+    padding: 0px 0px 0px 25px;
+    background-color: #5150761A;
+}
