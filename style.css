@@ -4,7 +4,7 @@ body {
     background-color: #ffffff;
     margin: 0;
     padding: 40px;
-    background-image: url("/images/background_image.png");
+    background-image: url("images/BG-image.png");
 }
 
 * {
@@ -38,7 +38,7 @@ body {
 
 .product-card {
     width: 340px;
-    min-height: 573px;
+    
     padding: 25px;
     background: #ffffff;
     border: 1px solid #d9d9e8;
